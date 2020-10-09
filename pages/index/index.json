@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 200,
+  "usingComponents": {
+    "uni-link": "/components/uni-link/uni-link"
+  }
+}

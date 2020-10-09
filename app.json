@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/image/image",
+    "pages/index-ed/index-ed",
+    "pages/index/index",
+    "pages/mssage/mssage",
+    "pages/contect/contect",
+    "pages/details/details",
+    "pages/uni-style/uni-style",
+    "pages/home/home",
+    "pages/pickerlist/pickerlist"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "绿帽子",
+    "navigationBarBackgroundColor": "#aa5500",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#9a9a9a",
+    "selectedColor": "#007AFF",
+    "backgroundColor": "#F1F1F1",
+    "list": [
+      {
+        "text": "组件",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/a.png",
+        "selectedIconPath": "static/images/a1.png"
+      },
+      {
+        "text": "信息",
+        "pagePath": "pages/mssage/mssage",
+        "iconPath": "static/images/b.png",
+        "selectedIconPath": "static/images/b1.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/contect/contect",
+        "iconPath": "static/images/c.png",
+        "selectedIconPath": "static/images/c1.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
